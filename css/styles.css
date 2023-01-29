@@ -1,0 +1,12 @@
+body {
+    background-color: #efefef;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(14, 59, 59);
+    font-size: 50px;
+}
+
+h1 {
+    font-family:'Roboto Condensed', sans-serif;
+    color: darkcyan;
+    font-size: 80px;
+}
